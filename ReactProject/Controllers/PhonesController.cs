@@ -18,7 +18,8 @@ namespace ReactProject.Controllers
             data = new List<Phone>
             {
                 new Phone { Id = Guid.NewGuid().ToString(), Name = "Xiaomi mi 9t", Price = 20000},
-                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 11", Price = 70000}
+                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 11", Price = 70000},
+                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 11 max", Price = 90000}
             };
         }
 
