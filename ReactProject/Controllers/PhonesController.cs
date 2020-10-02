@@ -20,7 +20,8 @@ namespace ReactProject.Controllers
                 new Phone { Id = Guid.NewGuid().ToString(), Name = "Xiaomi mi 9t", Price = 20000},
                 new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 11", Price = 70000},
                 new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 11 max", Price = 90000},
-                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 10 max", Price = 80000}
+                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 10 max", Price = 80000},
+                new Phone { Id = Guid.NewGuid().ToString(), Name = "Iphone 8", Price = 40000}
             };
         }
 
